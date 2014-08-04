@@ -1,0 +1,16 @@
+Source: komodo-icon-theme
+Section: gnome
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7), python-scour, icon-naming-utils, python-rsvg
+Standards-Version: 3.9.1
+Vcs-Bzr: http://dev.blankonlinux.or.id/bzr/rote/komodo-icon-theme
+
+Package: komodo-icon-theme
+Architecture: all
+Depends: libgtk-3-0
+Description: Komodo Icon Theme for BlankOn Linux
+ This icon theme provides a scalable group of icons to be used by GTK+ 3.x
+ applications like GNOME 3, this distributed for BlankOn 8 Rote.
+
+

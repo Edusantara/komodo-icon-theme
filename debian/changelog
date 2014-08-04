@@ -1,0 +1,301 @@
+komodo-icon-theme (0.2.31+suroboyo4+edusantara1) anambas; urgency=low
+
+  * Add edusantara icon
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Mon, 04 Aug 2014 19:39:10 +0700
+
+komodo-icon-theme (0.2.31+suroboyo4) suroboyo; urgency=low
+
+  * Add New Icons :
+    - Cisco Paket Tracer
+    - geoblankon-peta
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Fri, 07 Feb 2014 11:20:53 +0700
+
+komodo-icon-theme (0.2.31+suroboyo3) suroboyo; urgency=low
+
+  * Added New Icons :
+    - Manoikwari
+    - Supermario
+    - Warsi
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Thu, 06 Feb 2014 23:06:41 +0700
+
+komodo-icon-theme (0.2.31+suroboyo2) suroboyo; urgency=medium
+
+  * add maleo icon
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Wed, 05 Feb 2014 16:05:19 +0700
+
+komodo-icon-theme (0.2.31+suroboyo1) suroboyo; urgency=medium
+
+  * Added some icon apps by cho2
+    - list http://tempel.blankon.in/259159 
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 26 Dec 2013 15:29:19 +0700
+
+komodo-icon-theme (0.2.30+suroboyo1) suroboyo; urgency=low
+
+  * battery monochrome
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 15 Nov 2013 23:01:21 +0700
+
+komodo-icon-theme (0.2.29+suroboyo1) suroboyo; urgency=low
+
+  * fix error no battery present icon status
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 09 Nov 2013 03:53:36 +0700
+
+komodo-icon-theme (0.2.28+suroboyo1) suroboyo; urgency=low
+
+  * added back dir status/16, 22
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Nov 2013 19:28:59 +0700
+
+komodo-icon-theme (0.2.27+suroboyo1) suroboyo; urgency=low
+
+  * remove dir status/16,22
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Nov 2013 15:33:46 +0700
+
+komodo-icon-theme (0.2.26+suroboyo1) suroboyo; urgency=low
+
+  * icon status mono
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 05 Nov 2013 23:20:23 +0700
+
+komodo-icon-theme (0.2.25+suroboyo1) suroboyo; urgency=low
+
+  * adding symlink icon xchm.svg
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 01 Nov 2013 02:08:31 +0700
+
+komodo-icon-theme (0.2.24+suroboyo2) suroboyo; urgency=low
+
+  * refix bug in icon system-log back to 0.2.23+suroboyo1
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 01 Nov 2013 00:58:58 +0700
+
+komodo-icon-theme (0.2.24+suroboyo1) suroboyo; urgency=low
+
+  * adding new revisi 
+    - /apps = blankon-tutorial.svg, blankon-tweak.svg, gimp.svg, hydrogen.svg
+    - /devices = blankon-installer.svg
+    - /mimetypes = deb.svg
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 31 Oct 2013 21:32:35 +0700
+
+komodo-icon-theme (0.2.23+suroboyo1) suroboyo; urgency=low
+
+  * Fix bug in icon system-log :
+    - Convert apps/scalable/logviewer.svg to apps/scalable/logviewer.png
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Mon, 16 Sep 2013 11:59:25 +0700
+
+komodo-icon-theme (0.2.23+suroboyo) suroboyo; urgency=low
+
+  * add extension *.svg to apps symlink
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 08 Jan 2013 23:45:07 +0700
+
+komodo-icon-theme (0.2.22) suroboyo; urgency=low
+
+  * added some icon apps
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 08 Jan 2013 22:07:07 +0700
+
+komodo-icon-theme (0.2.21) suroboyo; urgency=low
+
+  * remove small
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 10 Dec 2012 21:56:34 +0700
+
+komodo-icon-theme (0.2.20) suroboyo; urgency=low
+
+  * Upstream release
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 10 Dec 2012 20:16:53 +0700
+
+komodo-icon-theme (0.2.19) rote-updates; urgency=low
+
+  * Komodo-updates_2
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 09 Dec 2012 21:40:36 +0700
+
+komodo-icon-theme (0.2.18) rote-updates; urgency=low
+
+  * Komodo updates
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 07 Dec 2012 22:07:20 +0700
+
+komodo-icon-theme (0.2.17) rote; urgency=low
+
+  * Remove small
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 30 Jul 2012 04:08:17 +0700
+
+komodo-icon-theme (0.2.16) rote; urgency=low
+
+  * Added small 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 29 Jul 2012 11:35:27 +0000
+
+komodo-icon-theme (0.2.15) rote; urgency=low
+
+  * Added symlink again
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 21 May 2012 10:08:01 +0700
+
+komodo-icon-theme (0.2.14) rote; urgency=low
+
+  * Added libreoffice3-template.svg
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 18 May 2012 10:43:56 +0700
+
+komodo-icon-theme (0.2.13) rote; urgency=low
+
+  * Added symlink home
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 16 May 2012 11:22:51 +0700
+
+komodo-icon-theme (0.2.12) rote; urgency=low
+
+  * Add actions at komodo
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 23:56:31 +0700
+
+komodo-icon-theme (0.2.11) rote; urgency=low
+
+  * Added png for status/battrey*
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 23:05:08 +0700
+
+komodo-icon-theme (0.2.10) rote; urgency=low
+
+  * Added symlink icon network 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 21:21:54 +0700
+
+komodo-icon-theme (0.2.9) rote; urgency=low
+
+  * Added symlink used-desktop.pn to desktop.png #1071
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 09:48:22 +0700
+
+komodo-icon-theme (0.2.8) rote; urgency=low
+
+  * Added symlink
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 13 May 2012 21:09:57 +0700
+
+komodo-icon-theme (0.2.7) rote; urgency=low
+
+  * changes pixel user-desktop coklat
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 10 May 2012 00:03:50 +0700
+
+komodo-icon-theme (0.2.6) rote; urgency=low
+
+  * Added user-desktop coklat
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 10 May 2012 22:09:55 +0700
+
+komodo-icon-theme (0.2.5) rote; urgency=low
+
+  * Convert to png
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 10 May 2012 21:35:08 +0700
+
+komodo-icon-theme (0.2.4) rote; urgency=low
+
+  * Added symlink gnome*
+    
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 05 May 2012 10:15:33 +0000
+
+komodo-icon-theme (0.2.3) rote; urgency=low
+
+  * Adding more icon status and actions
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 02 May 2012 19:26:26 +0700
+
+komodo-icon-theme (0.2.2) rote; urgency=low
+
+  * Added symlynk.
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 16 Apr 2012 12:15:23 +0000
+
+komodo-icon-theme (0.2.1) rote; urgency=low
+
+  * addning packages icon komodo/*/actions from blankon-icon-theme
+    addning packages icon komodo/*/status  from-blankon-icon-theme
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 14 Mar 2012 02:06:00 +0700
+
+komodo-icon-theme (0.2.0) rote; urgency=low
+
+  * changes debian/control
+    - libgtk-3.0 > libgtk-3-0
+    - distributed to rote
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 13 Mar 2012 21:29:22 +0700
+
+komodo-icon-theme (0.1.8) rote; urgency=low
+
+  * komodo icon for rote
+    - include libgtk-3.0
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 13 Mar 2012 16:11:26 +0700
+
+blankon-icon-theme (0.1.7) rote; urgency=low
+
+  * rebuild for rote
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 07 Nov 2011 17:12:55 +0700
+
+blankon-icon-theme (0.1.6) pattimura; urgency=low
+
+  * Update power icon from buitenzorg812
+
+ -- Arif Syamsudin <buitenzorg812@ThinkPad-SL400>  Mon, 20 Jun 2011 22:35:46 +0700
+
+blankon-icon-theme (0.1.5) pattimura; urgency=low
+
+  * Update education icon from princeofgiri
+
+ -- aftian <aftian@di.blankon.in>  Fri, 17 Jun 2011 17:21:25 +0700
+
+blankon-icon-theme (0.1.4) pattimura; urgency=low
+
+  * Fix update libreoffice logo from princeofgiri
+
+ -- aftian <aftian@di.blankon.in>  Thu, 16 Jun 2011 17:04:11 +0700
+
+blankon-icon-theme (0.1.3) pattimura; urgency=low
+
+  * update logo ubuntu-tweak.svg
+
+ -- aftian <aftian@di.blankon.in>  Thu, 09 Jun 2011 22:53:31 +0700
+
+blankon-icon-theme (0.1.2) pattimura; urgency=low
+
+  * added distributor-loo-blankon.svg.
+  
+ -- aftian <aftian@di.blankon.in>  Sun, 03 Apr 2011 00:56:03 +0700
+
+blankon-icon-theme (0.1.1) pattimura; urgency=low
+
+  * edit index.theme
+  * memasang ikon blankon untuk start-here
+
+ -- Ahmad Haris <princeofgiri@di.blankon.in>  Mon, 24 Jan 2011 22:12:09 +0700
+
+blankon-icon-theme (0.1.0) pattimura; urgency=low
+
+  * Initial release
+  * debianized
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 18 Jan 2011 21:17:21 +0700
+
+
+
+
